@@ -1,0 +1,42 @@
+[
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "description": "A gripping mystery thriller involving a journalist and a hacker investigating a cold case."
+    },
+    {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "description": "A psychological thriller about a husband and wife whose marriage takes a dark turn."
+    },
+    {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "description": "A suspenseful psychological thriller about a woman who has not spoken a word in years."
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "description": "A fast-paced thriller that follows a symbologist's quest to solve a murder mystery with religious implications."
+    },
+    {
+        "title": "Before I Go to Sleep",
+        "author": "S.J. Watson",
+        "description": "A psychological thriller involving a woman with amnesia who unravels the truth about her past."
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "description": "A classic horror-thriller novel that tells the story of a family's descent into madness in an isolated hotel."
+    },
+    {
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "description": "A suspenseful thriller that explores the lives of three women and a mystery surrounding a commuter train."
+    },
+    {
+        "title": "In the Woods",
+        "author": "Tana French",
+        "description": "A psychological mystery thriller about a detective investigating a murder case with personal connections to his past."
+    }
+]
